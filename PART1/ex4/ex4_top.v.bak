@@ -1,0 +1,12 @@
+module ex4_top(SW, HEX0, HEX1, HEX2, HEX3);
+
+	input SE[9:0];
+	output HEX0[6:0];
+	output HEX1[6:0];
+	output HEX2[6:0];
+	output HEX3[6:0];
+	
+	bin2bcd_16 SEG0({6b'000000, SEG[9:0]}, HEX0[6:0], HEX1[6:0], HEX2[6:0], HEX3[6:0]);
+	
+	
+

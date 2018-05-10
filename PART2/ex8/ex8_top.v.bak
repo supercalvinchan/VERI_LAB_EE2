@@ -1,0 +1,14 @@
+module ex8_top(
+CLOCK_50,
+KEY,
+HEX0,
+HEX1,
+HEX2,
+HEX3,
+HEX4);
+
+	input CLOCK_50;
+	input [3:0] KEY;
+	
+	output [6:0] HEX0, HEX1, HEX2, HEX3, HEX4;
+	

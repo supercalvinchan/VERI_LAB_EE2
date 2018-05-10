@@ -1,0 +1,66 @@
+m255
+K3
+13
+cModel Technology
+Z0 dH:\VERI\PART2\ex7\simulation\modelsim
+vex7_top
+!i10b 1
+!s100 AW2=Zihn8:j1e1=Fz8G:L2
+Io<hF^nWkH>h^z?Y8U4MZA2
+V_2DX^16h>V2>7@HF8UdeD2
+Z1 dH:\VERI\PART2\ex7\simulation\modelsim
+w1511205526
+8H:/VERI/PART2/ex7/ex7_top.v
+FH:/VERI/PART2/ex7/ex7_top.v
+L0 1
+Z2 OV;L;10.1d;51
+r1
+!s85 0
+31
+!s108 1511263174.119000
+!s107 H:/VERI/PART2/ex7/ex7_top.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+H:/VERI/PART2/ex7|H:/VERI/PART2/ex7/ex7_top.v|
+!s101 -O0
+Z3 o-vlog01compat -work work -O0
+Z4 !s92 -vlog01compat -work work +incdir+H:/VERI/PART2/ex7 -O0
+vhex_to_7seg
+Ik>4KZ=Zn;]G[?Y0koD2Hj3
+VmajmUT@0;iC?5d23GJR[Q1
+R1
+w1510937119
+8H:/VERI/mylib/hex_to_7seg.v
+FH:/VERI/mylib/hex_to_7seg.v
+L0 1
+R2
+r1
+31
+R3
+!i10b 1
+!s100 SbMUL3XSV`oJg^J_c0I<>1
+!s85 0
+!s108 1511263173.759000
+!s107 H:/VERI/mylib/hex_to_7seg.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+H:/VERI/mylib|H:/VERI/mylib/hex_to_7seg.v|
+!s101 -O0
+!s92 -vlog01compat -work work +incdir+H:/VERI/mylib -O0
+vLFSR_7
+I_kI<Z76VQnNQ6liXzn>@92
+V;Pfg`bX0M<8bFlAD98<je0
+R1
+w1511125539
+8H:/VERI/PART2/ex7/LFSR_7.v
+FH:/VERI/PART2/ex7/LFSR_7.v
+L0 3
+R2
+r1
+31
+R3
+n@l@f@s@r_7
+!i10b 1
+!s100 J:gX0cWT]D[^U[XISVDcl2
+!s85 0
+!s108 1511263173.952000
+!s107 H:/VERI/PART2/ex7/LFSR_7.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+H:/VERI/PART2/ex7|H:/VERI/PART2/ex7/LFSR_7.v|
+!s101 -O0
+R4

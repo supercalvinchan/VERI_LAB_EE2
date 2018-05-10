@@ -1,0 +1,15 @@
+
+State Machine - |ex8_top|ex8_fsm:FSM|state
+Name state.COUNT10 state.COUNT9 state.COUNT8 state.COUNT7 state.COUNT6 state.COUNT5 state.COUNT4 state.COUNT3 state.COUNT2 state.COUNT1 state.COUNT0 state.WAIT 
+state.WAIT 0 0 0 0 0 0 0 0 0 0 0 0 
+state.COUNT0 0 0 0 0 0 0 0 0 0 0 1 1 
+state.COUNT1 0 0 0 0 0 0 0 0 0 1 0 1 
+state.COUNT2 0 0 0 0 0 0 0 0 1 0 0 1 
+state.COUNT3 0 0 0 0 0 0 0 1 0 0 0 1 
+state.COUNT4 0 0 0 0 0 0 1 0 0 0 0 1 
+state.COUNT5 0 0 0 0 0 1 0 0 0 0 0 1 
+state.COUNT6 0 0 0 0 1 0 0 0 0 0 0 1 
+state.COUNT7 0 0 0 1 0 0 0 0 0 0 0 1 
+state.COUNT8 0 0 1 0 0 0 0 0 0 0 0 1 
+state.COUNT9 0 1 0 0 0 0 0 0 0 0 0 1 
+state.COUNT10 1 0 0 0 0 0 0 0 0 0 0 1 

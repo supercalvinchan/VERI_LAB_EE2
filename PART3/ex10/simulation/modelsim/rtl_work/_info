@@ -1,0 +1,76 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dH:/VERI/PART3/ex10/simulation/modelsim
+vclktick_16
+Z1 !s110 1512245659
+!i10b 1
+!s100 e^[z47<17@C?Ee@O?IhbE0
+Ib>GmEzKZKPJGB6BiiJ5S=1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1512239192
+8H:/VERI/mylib/clktick_16.v
+FH:/VERI/mylib/clktick_16.v
+L0 3
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1512245659.000000
+!s107 H:/VERI/mylib/clktick_16.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+H:/VERI/mylib|H:/VERI/mylib/clktick_16.v|
+!i113 1
+Z5 o-vlog01compat -work work
+!s92 -vlog01compat -work work +incdir+H:/VERI/mylib
+Z6 tCvgOpt 0
+vex_10_top
+!s110 1512245658
+!i10b 1
+!s100 JN4bTea524<me6L:QmfM]3
+If8IMGb:@>@g@6Ch1DD??N1
+R2
+R0
+w1511865031
+8H:/VERI/PART3/ex10/ex_10_top.v
+FH:/VERI/PART3/ex10/ex_10_top.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1512245658.000000
+!s107 H:/VERI/PART3/ex10/ex_10_top.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+H:/VERI/PART3/ex10|H:/VERI/PART3/ex10/ex_10_top.v|
+!i113 1
+R5
+!s92 -vlog01compat -work work +incdir+H:/VERI/PART3/ex10
+R6
+vspi2dac
+R1
+!i10b 1
+!s100 l5oC<RTOB2HF<f19KhKez0
+IaMOS;Mi;Nj2Lc^HD4M;QR3
+R2
+R0
+w1481207092
+8H:/VERI/PART3/ex10/spi2dac&adc/spi2dac.v
+FH:/VERI/PART3/ex10/spi2dac&adc/spi2dac.v
+L0 9
+R3
+r1
+!s85 0
+31
+R4
+!s107 H:/VERI/PART3/ex10/spi2dac&adc/spi2dac.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+H:/VERI/PART3/ex10/spi2dac&adc|H:/VERI/PART3/ex10/spi2dac&adc/spi2dac.v|
+!i113 1
+R5
+!s92 -vlog01compat -work work +incdir+H:/VERI/PART3/ex10/spi2dac&adc
+R6

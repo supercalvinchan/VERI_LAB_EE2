@@ -1,0 +1,30 @@
+module clkdiv_16(
+clkin,
+clkout
+);
+
+
+	parameter N_BIT = 16;
+	parameter K = 249; //Divide the clkin by 250'
+	
+	input clkin;
+	
+	output clkout;
+	
+	reg [N_BIT - 1] count;
+	reg clkout;
+	
+	always @ (posedge clkin)
+	begin
+		if(count == N_BIT'b0)
+		begin
+			clkout <= ~clkout;
+			count <= K;
+		end
+		else
+		begin
+			count <= count - 1'b1;
+		end
+	end
+
+endmodule

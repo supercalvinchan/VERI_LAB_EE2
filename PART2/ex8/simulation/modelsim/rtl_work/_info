@@ -1,0 +1,25 @@
+m255
+K3
+13
+cModel Technology
+Z0 dH:\VERI\PART2\ex8\simulation\modelsim
+vex8_top
+!i10b 1
+!s100 OJ[78f9gC0^HZ3Z@<8^ZJ1
+IRGaW9@[GhiXm5Cok@Vfoc2
+V5mX=89>`8EV>Po`dF2?Sl0
+Z1 dH:\VERI\PART2\ex8\simulation\modelsim
+w1511790766
+8H:/VERI/PART2/ex8/ex8_top.v
+FH:/VERI/PART2/ex8/ex8_top.v
+L0 1
+OV;L;10.1d;51
+r1
+!s85 0
+31
+!s108 1511791112.965000
+!s107 H:/VERI/PART2/ex8/ex8_top.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+H:/VERI/PART2/ex8|H:/VERI/PART2/ex8/ex8_top.v|
+!s101 -O0
+o-vlog01compat -work work -O0
+!s92 -vlog01compat -work work +incdir+H:/VERI/PART2/ex8 -O0

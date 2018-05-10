@@ -1,0 +1,33 @@
+module ex8_fsm(
+clk,
+tick,
+trigger,
+time_out);
+
+	input clk, tick, trigger, time_out;
+	output en_ifsr, start_delay, ledr;
+	
+	parameter NSTATE = 12;
+	
+	parameter WAIT = 12'b000000000001;
+	parameter COUNT0 = 12'b000000000010;
+	parameter COUNT1 = 12'b000000000100;
+	parameter COUNT2 = 12'b000000001000;
+	parameter COUNT3 = 12'b000000010000;
+	parameter COUNT4 = 12'b000000100000;
+	parameter COUNT5 = 12'b000001000000;
+	parameter COUNT6 = 12'b000010000000;
+	parameter COUNT7 = 12'b000100000000;
+	parameter COUNT8 = 12'b001000000000;
+	parameter COUNT9 = 12'b010000000000;
+	parameter COUNT10 = 12'b10000000000;
+	
+	reg [NSTATE-1:0] state;
+	
+	initial state = WAIT;
+	initial trigger = 1b'0;
+	initial time_out = 1b'0;
+	
+	
+	
+	
